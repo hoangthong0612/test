@@ -2,7 +2,7 @@
 
 	$host = 'localhost';
 	$uname = 'root';
-	$pw = '';
+	$pw = '123';
 	$dname = 'test';
 	$port = 3306;
 
